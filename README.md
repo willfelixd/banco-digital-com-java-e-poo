@@ -13,7 +13,7 @@
   </p>
                     
   <p align="center">
-  <img width="200" height="200" src="https://github.com/willfelixd/banco-digital-com-java-e-poo/blob/main/assets/cifr%C3%A3o.gif">
+  <img width="220" height="220" src="https://github.com/willfelixd/banco-digital-com-java-e-poo/blob/main/assets/money-cash.gif">
   </p>
 
 <h1>Tecnologias utilizadas</h1>
