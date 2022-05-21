@@ -38,6 +38,9 @@
   <p align="justify"><a href="https://www.devmedia.com.br/uma-visao-sobre-o-projeto-lombok/28321"
     class="externo">Artigo sobre Projeto Lombok</a>
   </p>
+  <p align="justify"><a href="https://projectlombok.org/setup/eclipse"
+    class="externo">Instalação do Lombok no Eclipse</a>
+  </p>
                     
 <h1>Autor</h1>
 
