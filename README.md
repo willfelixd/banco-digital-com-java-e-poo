@@ -14,7 +14,7 @@
 <h1>Sobre o projeto</h1>
 
   <p align="justify">
-  Utilizando conhecimentos prévios de uma operação bancária, realizei a abstração de uma solução Orientada a Objetos em Java de um banco que disponibiliza aos seus clientes dois tipos de contas (corrente e poupança), com as operações de depósito, saque, transferência e pix entre essas contas da própria instituição bancária. No final é disponibilizada a lista dos clientes com contas ativas no banco.
+  Utilizando conhecimentos prévios de uma operação bancária, realizei a abstração de uma solução Orientada a Objetos em Java de um banco que disponibiliza aos seus clientes dois tipos de contas (corrente e poupança), com as operações de depósito, saque, transferência e pix entre essas contas da própria instituição bancária. No final é disponibilizado o extrato das contas e a lista dos clientes com contas ativas no banco.
   </p>
   
   <p align="center">
